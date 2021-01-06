@@ -1,11 +1,11 @@
-### Hi there 👋
+### Hi
 My name is Michal.
 I love to support business with IT solutions and make complicated processes simple. 
 
 - 🔭 I’m currently working on establishing PowerPlatform Community in the North of Poland
 - 🌱 I’m learning all the time, and so if you want to teach me someething, let me know.
 - 🤔 I’m looking for help with building the best toolbox for every engineer in te cloud platform which can easily support bussiness. 
-- 📫 How to reach me: Twitter https://twitter.com/Michal_Ziemba
+- 📫 You can reach me: Twitter https://twitter.com/Michal_Ziemba
 
 Welcome on my GitHub space. 
 <!--
