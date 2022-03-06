@@ -1,5 +1,5 @@
 ### Hi
-My name is Michal.
+My name is Michal [me+how].
 I love to support business with IT solutions and make complicated processes simple. 
 
 - 🔭 I’m currently working on establishing PowerPlatform Community in the North of Poland
