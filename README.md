@@ -1,11 +1,14 @@
 ### Hi
 My name is Michal [me+how].
-I love to support business with IT solutions and make complicated processes simple. 
+I use my passion for Microsoft 365 and Power Platform to make business processes more optimized, efficient and secure.
+I co-organize Baltic Power Platform Community live events and Global Power Platform Bootcamp Polish Edition.
+As a trainer (MCT), I share my over two decades of experience in Microsoft services with others during classes and conferences. 
+![image](https://user-images.githubusercontent.com/26149926/210185095-f291a7c0-1434-49e3-bbb7-2e1cfb6d42ef.png)
 
-- 🔭 I’m currently working on establishing PowerPlatform Community in the North of Poland
+
+- 🔭 I’m currently developing Baltic Power Platform Community in the North of Poland
 - 🌱 I’m learning all the time, and so if you want to teach me someething, let me know.
-- 🤔 I’m looking for help with building the best toolbox for every engineer in the cloud platform which can easily support bussiness. 
-- 📫 You can reach me: Twitter https://twitter.com/Michal_Ziemba
+- 📫 You can reach me: Twitter https://twitter.com/Michal_Ziemba or LinkedIn https://www.linkedin.com/in/mziemba
 
 Welcome on my GitHub space. 
 <!--
