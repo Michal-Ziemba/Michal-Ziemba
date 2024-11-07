@@ -1,10 +1,10 @@
 ### Hi
 My name is Michal [me+how].
+
 I can help you to make your business processes more optimized, efficient and secure using Microsoft 365 and Power Platform.
-You are welcome to join my Baltic Power Platform Community monthly meetings, Global Power Platform Bootcamp Polish Edition,
+You are welcome to join our Baltic Power Platform Community monthly meetings, Global Power Platform Bootcamp Polish Edition,
 and [Baltic Summit](https://balticsummit.pl).
 As a trainer (MCT), I share my over two decades of experience in Microsoft services with others during classes and conferences. 
-![image](https://user-images.githubusercontent.com/26149926/210185095-f291a7c0-1434-49e3-bbb7-2e1cfb6d42ef.png)
 
 
 - 🔭 I’m currently developing Baltic Power Platform Community in the North of Poland
